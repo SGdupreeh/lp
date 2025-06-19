@@ -1,1 +1,1 @@
-# lp
+# Easy landing page for information
